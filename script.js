@@ -13,10 +13,10 @@ function fetchdata(){
         <div class="shop" id="flex">
 
         <h4>Name: ${user.name} </h4>
-        <p> Type: ${user.brewery_type}<p>
-        <p> address : ${user.address_2}<p>
-        <p> website : ${user.website_url}<p>
-        <p> phone : ${user.phone}<p>
+        <p><b> Type:</b> ${user.brewery_type}<p>
+        <p> <b>address : </b>${user.address_2}<p>
+        <p> <b>website :</b> ${user.website_url}<p>
+        <p> <b>phone :</b> ${user.phone}<p>
         
         </div>
         `
